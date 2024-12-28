@@ -26,7 +26,7 @@ public class PruebaPersona {
          arrayPersonas[2] = per3;
          
          //Imprimimos los datos de todas las personas
-         System.out.println("LISTA DE PERSONAS [MODIFICADO]:");
+         System.out.println("LISTA DE PERSONAS [MODIFICADO 2]:");
          System.out.println("----------------------------------");
          for (Persona per : arrayPersonas) {       
              per.imprime();
