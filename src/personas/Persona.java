@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 /**
  * Clase que almacena y maneja los atributos de las personas
  * @autor IES Virgen de la Paloma
- * @version 2
+ * @version 3
  */
 public class Persona {
 
