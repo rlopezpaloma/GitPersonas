@@ -4,7 +4,7 @@ package personas;
 /**
  * Clase que prueba objetos de tipo Persona
  * @autor IES Virgen de la Paloma
- * @version 2
+ * @version 3
  */
 public class PruebaPersona {
 
